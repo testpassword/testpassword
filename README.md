@@ -4,15 +4,12 @@
 
 ### **Current work:** Junior FullStack in Luxoft AMD ProRender Team (stack: `Python, Vue.js`)
 
-
-
-![Stats](https://github-readme-stats.vercel.app/api?username=testpassword&show_icons=true&count_private=true&theme=gotham&border_radius=30&include_all_commits=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=testpassword&layout=compact&theme=gotham&border_radius=30&hide=pascal,c,jupyter%20notebook)](https://github.com/testpassword/github-readme-stats)
+| ![Stats](https://github-readme-stats.vercel.app/api?username=testpassword&show_icons=true&count_private=true&theme=gotham&border_radius=30&include_all_commits=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=testpassword&layout=compact&theme=gotham&border_radius=30&hide=pascal,c,jupyter%20notebook)](https://github.com/testpassword/github-readme-stats) |
+|---|---|
 
 <h1 style="color: rgb(212, 187, 133)">Technology<h3/>
 
-*NOTE: Next listed all the technologies that I have ever worked with more then few weeks, but not all of them I am experienced well.*
+*NOTE: Next listed all the technologies that I have ever worked with more then a month, but not all of them I am experienced well.*
 
 <div style="display: flex; flex-direction: row; justify-content: center; padding-bottom: 20px">
     <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"/>
@@ -55,3 +52,12 @@
     <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>
     <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
     <img width="150px" style="padding-bottom: 10px" src="https://www.rabbitmq.com/img/logo-rabbitmq.svg"/>
+</div>
+
+<h1 style="color: rgb(212, 187, 133)">Support<h3/>
+
+If my code was useful, you can support me:
+
+<img align="left" width="190px" src="./bank.jpg"/>
+<img align="left" width="190px" src="./btc.jpg"/>
+<img align="left" width="190px" src="./eth.jpg"/>
