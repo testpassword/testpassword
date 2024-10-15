@@ -59,7 +59,11 @@
 If my code was useful, you can support me:
 
 <img align="left" width="190px" src="./bank.jpg"/>
+
 BTC: `bc1qa0znuf9qe5ktadpyvwp342mq4spl357x6csq8a`
+
 ETH: `0xfCB593FbB307B2c0123F0A38B055387Ca97a2CE5`
+
 TON: `UQAFiJ1-gutbbDAx8-UncaY2KHej_3kWA8wOvmyVNWYZoCeP`
+
 TRX: `TW4mXkMmADPTdcPa1qtGoeHfVCno1bfsZH`
