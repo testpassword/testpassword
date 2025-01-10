@@ -1,8 +1,8 @@
 <h1 style="color: rgb(212, 187, 133)">Bio<h3/>
 
-### **Education:** ITMO University bachelor software engineer
+### **Education:** Master of Software Engineering in ITMO University (2024)
 
-### **Current work:** Junior FullStack in Luxoft AMD ProRender Team (stack: `Python, Vue.js`)
+### **Current work:** Middle FullStack in Softellion (main stack: `Python, Vue.js`)
 
 | ![Stats](https://github-readme-stats.vercel.app/api?username=testpassword&show_icons=true&count_private=true&theme=gotham&border_radius=30&include_all_commits=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=testpassword&layout=compact&theme=gotham&border_radius=30&hide=pascal,c,jupyter%20notebook)](https://github.com/testpassword/github-readme-stats) |
 |---|---|
